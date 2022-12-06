@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679774883195",
+    "project_id": "flutter-albums",
+    "storage_bucket": "flutter-albums.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679774883195:android:6ee50eea3fa7db3ea081de",
+        "android_client_info": {
+          "package_name": "com.example.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679774883195-fs8ta1dvufm3okkoc0283htv9mcpln7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApPhHvW9dX0eQMxQe9WvE7uD88emhiz4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679774883195-fs8ta1dvufm3okkoc0283htv9mcpln7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
