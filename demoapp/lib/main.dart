@@ -1,5 +1,6 @@
 import 'package:demoapp/pages/choices.dart';
 import 'package:demoapp/pages/home.dart';
+import 'package:demoapp/pages/listview.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
@@ -63,9 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
   static final List<Widget> _widgetOptions = <Widget>[
     const HomePage(),
     const ChoicesPage(),
-    const Text(
-      'Index 2: School',
-    ),
+    const ListCardView()
   ];
 
   void _onItemTapped(int index) {
